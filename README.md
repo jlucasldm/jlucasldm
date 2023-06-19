@@ -1,18 +1,33 @@
-# 💫 About Me:
-Hi! I'm João Lucas, 22, a computer science student at UFBA (Universidade Federal da Bahia)<br><br>🔭 I'm currently working at Serpro as an intern. I use Angular, Java, and SQL to manage diverse applications<br>👯 I’m looking to collaborate on data science projects<br>🌱 I’m currently learning about data science, artificial intelligence, and machine learning<br>⚡ I also LOVE movies. I try to study it on my own, but I do want to, at some point, join a university to study it academically
+## Hi there!
+Hi! I'm João Lucas, 22, a Computer Science student at [UFBA](https://ufba.br/)
+
+I'm currently working at Serpro as an intern. I use Angular, Java, and SQL to manage diverse applications.
+
+I’m currently learning about data science, artificial intelligence, and machine learning. Recently, i did a [CG project](https://github.com/jlucasldm/backrooms) that really got me into game development. So, to start to learn about it, I'm working on a [Doom project](https://github.com/jlucasldm/doom).
+
+I also LOVE movies. I try to study it on my own, but I do want to, at some point, join a university to study it academically.
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jlucasldm&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jlucasldm&theme=vision-friendly-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasldm&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### Some cool projects i made:
+- [Backrooms](https://github.com/jlucasldm/backrooms): A virtual environment set in the popular creepy pasta The Backrooms
+- [Doom](https://github.com/jlucasldm/doom): A remake of the original 93 game, using python
+- [Cops and Robbers](https://github.com/jlucasldm/trabalho-grafos): An algorithmic translation of a mathematical theorem to define a winning condition in a Cop and Robbers game
+- [Client-Server Application](https://github.com/jlucasldm/trabalho-redes): A client-server application using python
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jlucasldm&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=jlucasldm&icon=5&color=7)](https://visitcount.itsvg.in)
+### How to reach me:
+- Email: jlucas.ldm@gmail.com
+
+
+### Know me at my social media
+- [Spotify](https://open.spotify.com/user/jlucas.ldm)
+- [Letterboxd](https://letterboxd.com/nuvem/)
+
+
+### Some github status
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jlucasldm&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)
+![Frequency Stats](https://github-readme-streak-stats.herokuapp.com/?user=jlucasldm&theme=vision-friendly-dark&hide_border=true)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasldm&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
