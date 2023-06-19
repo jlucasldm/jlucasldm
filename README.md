@@ -3,7 +3,7 @@ Hi! I'm João Lucas, 22, a Computer Science student at [UFBA](https://ufba.br/).
 
 I'm currently working at Serpro as an intern. I use Angular, Java, and SQL to manage diverse applications.
 
-I’m currently learning about data science, artificial intelligence, and machine learning. Recently, i did a [CG project](https://github.com/jlucasldm/backrooms) that really got me into game development. So, to start to learn about it, I'm working on a [Doom project](https://github.com/jlucasldm/doom).
+I’m currently learning about data science, artificial intelligence, and machine learning. Also, recently i did a [CG project](https://github.com/jlucasldm/backrooms) that really got me into game development. So, to start to learn it, I'm working on a [Doom project](https://github.com/jlucasldm/doom).
 
 I also LOVE movies. I try to study it on my own, but I do want to, at some point, join a university to study it academically.
 
