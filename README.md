@@ -25,7 +25,7 @@ I also LOVE movies. I try to study it on my own, but I do want to, at some point
 
 
 ### 📊 Some github status:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jlucasldm&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&hide=issues,prs)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jlucasldm&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&hide=issues,prs&line_height=30)
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasldm&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!--![Frequency Stats](https://github-readme-streak-stats.herokuapp.com/?user=jlucasldm&theme=vision-friendly-dark&hide_border=true)-->
