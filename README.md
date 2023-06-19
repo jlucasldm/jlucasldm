@@ -1,5 +1,5 @@
 ## 👋🏻 Hi there!
-Hi! I'm João Lucas, 22, a Computer Science student at [UFBA](https://ufba.br/)
+Hi! I'm João Lucas, 22, a Computer Science student at [UFBA](https://ufba.br/).
 
 I'm currently working at Serpro as an intern. I use Angular, Java, and SQL to manage diverse applications.
 
