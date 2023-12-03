@@ -5,7 +5,7 @@ I'm currently working at Serpro as an intern. I use Angular, Java, and SQL to ma
 
 I’m currently learning about data science, artificial intelligence, and machine learning. Also, recently i did a [CG project](https://github.com/jlucasldm/backrooms) that really got me into game development. So, to start to learn it, I'm working on a [Doom project](https://github.com/jlucasldm/doom).
 
-I also LOVE movies. I try to study it on my own, but I do want to, at some point, join a university to study it academically.
+I also love movies. I try to study it on my own, but I do want to, at some point, join a university to study it academically.
 
 
 ### 💻 Some cool projects i made:
