@@ -1,16 +1,17 @@
 ## 👋🏻 Hi there!
 Hi! I'm João Lucas, 22, a Computer Science student at [UFBA](https://ufba.br/).
 
-I'm currently working at Serpro as an intern. I use Angular, Java, and SQL to manage diverse applications.
+I work at Serpro, Serviço Federal de Processamento de Dados, as a full-stack developer intern. I use Angular, Git, and PostgreSQL as the main technologies to develop, test, and maintain systems of governmental proportions.
 
-I’m currently learning about data science, artificial intelligence, and machine learning. Also, recently i did a [CG project](https://github.com/jlucasldm/backrooms) that really got me into game development. So, to start to learn it, I'm working on a [Doom project](https://github.com/jlucasldm/doom).
+I'm also a volunteer researcher in a scientific project, aimed at studying ethical and sociotechnical aspects of language-based systems and to document Large Language Models and Datasets in Brazilian Portuguese.
 
-I also love movies. I try to study it on my own, but I do want to, at some point, join a university to study it academically.
+I also love movies. I try to study it on my own, but I want to eventually join a university to study it academically.
 
 
-### 💻 Some cool projects i made:
-- [Backrooms](https://github.com/jlucasldm/backrooms): A virtual environment set in the popular creepy pasta The Backrooms
-- [Doom](https://github.com/jlucasldm/doom): A remake of the original 93 game, using python
+### 💻 Some cool projects I made:
+- [Ofir, the all-knowing](https://github.com/jlucasldm/langchain_chat): A chatbot developed using OpenAI's GPT-3.5-turbo model, refined to interact with the user as an old storyteller from distant lands who knows all about Berserk (up to the Golden Age arc).
+- [Thin Ice AI](https://github.com/brunobdcorreia/Thin-Ice-Learning): Two AI agents, using A* and Q-Learning approaches, trained to beat the popular Club Penguin's mini-game, Thin Ice.
+- [Doom](https://github.com/jlucasldm/doom): A remake of the original 93 game, using python (WIP).
 - [Cops and Robbers](https://github.com/jlucasldm/trabalho-grafos): An algorithmic translation of a mathematical theorem to define a winning condition in a Cop and Robbers game
 - [Client-Server Application](https://github.com/jlucasldm/trabalho-redes): A client-server application using python
 
@@ -19,12 +20,12 @@ I also love movies. I try to study it on my own, but I do want to, at some point
 - Email: jlucas.ldm@gmail.com
 
 
-### 🌐 Know me at my social media:
+### 🌐 Know me on my social media:
 - [Spotify](https://open.spotify.com/user/jlucas.ldm)
 - [Letterboxd](https://letterboxd.com/nuvem/)
 
 
-### 📊 Some github status:
+### 📊 Some Github status:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jlucasldm&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&hide=issues,prs&line_height=30)
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasldm&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
