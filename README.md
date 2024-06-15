@@ -25,9 +25,5 @@ I also love movies. I try to study it on my own, but I want to eventually join a
 - [Letterboxd](https://letterboxd.com/nuvem/)
 
 
-### 📊 Some Github status:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jlucasldm&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&hide=issues,prs&line_height=30)
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasldm&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 <!--![Frequency Stats](https://github-readme-streak-stats.herokuapp.com/?user=jlucasldm&theme=vision-friendly-dark&hide_border=true)-->
 
